@@ -1,7 +1,7 @@
 # spring jooq
 
 # STEP 1
-## 1.1 create account data
+## create account data
 ```
 CREATE TABLE account (
 	no bigserial NOT NULL,
